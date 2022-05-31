@@ -1,0 +1,35 @@
+h1 {
+    color:Red; 
+    font-size:20px; 
+    font-familt:Timse New Roman; 
+    font-style:bold;}
+p {
+   font-size:14px; 
+   font-familt:Timse New Roman; 
+   color:black;}
+li {
+    font-familt:Timse New Roman; 
+    font-size:14px; 
+    color:black; 
+    font-style:italic;}
+ul { 
+    font-familt:Timse New Roman; 
+    font-size:16px;
+    color:blue;
+    font-style:bold;}
+ol {
+    font-familt:Timse New Roman; 
+    font-size:16px;
+    color:black;
+    font-style:bold;}
+h2 {
+    font-familt:Timse New Roman; 
+    font-size:18px;
+    color:Red;
+    font-style:italic;}
+h3 {
+    font-familt:Timse New Roman; 
+    font-size:16px;
+    color:red;
+    font-style:italic;}
+    
